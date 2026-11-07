@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/hallotest/__init__.py
+src/hallotest/modul.py
+src/hallotest.egg-info/PKG-INFO
+src/hallotest.egg-info/SOURCES.txt
+src/hallotest.egg-info/dependency_links.txt
+src/hallotest.egg-info/requires.txt
+src/hallotest.egg-info/top_level.txt
+tests/test_modul.py
